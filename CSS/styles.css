@@ -1,0 +1,59 @@
+#header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: darkgray;
+    font-size: 11;
+    font-family: "Calibri";
+}
+
+img {
+    width: 40%;
+    
+}
+
+.movie {
+    background-color: lightgray;
+    content: "";
+    clear: both;
+    display: table;
+    width: 100%;
+}
+
+ul {
+    text-decoration: none;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+    
+.descColumn {
+    float: left;
+    width: 66.66%;
+    padding: 5px;
+}
+
+.imgColumn {
+    float: right;
+    width: 33.33%;
+    padding: 5px;        
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img:hover{
+    width: 80%;
+}
+
+
+
+    
+    
